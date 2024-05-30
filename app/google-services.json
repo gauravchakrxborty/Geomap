@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071338474785",
+    "project_id": "geomap-e2b84",
+    "storage_bucket": "geomap-e2b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071338474785:android:d1ba5a75e1c655cb0a8260",
+        "android_client_info": {
+          "package_name": "com.example.geomap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuE1BJO1JU1Qm8Ykdy2fvE9VmMQIQ942w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
